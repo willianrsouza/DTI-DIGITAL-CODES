@@ -8,16 +8,6 @@
   </p>
 </p>
 
-<br />
-
-<!-- Shields do Projeto -->
-
-<div align="center">
-
-</div>
-
-<br />
-
 ## Índice
 
 <details open="open">
@@ -39,10 +29,7 @@
 
 ## Sobre o repositorio
 
-Esse repositório tem o proposito de demonstrar como implementar o serviço Amazon Simple Email Service
-<p align="center">
-  <img src="assets/example.gif" alt="app-demo" width="auto" height="300">
-</p>
+* Esse repositório tem o proposito de demonstrar como implementar o serviço Amazon Simple Email Service. O Amazon Simple Email Service (SES) é um serviço em nuvem de e-mail eficaz, flexível e dimensionável.
 
 ### Principais Tecnologias
 
