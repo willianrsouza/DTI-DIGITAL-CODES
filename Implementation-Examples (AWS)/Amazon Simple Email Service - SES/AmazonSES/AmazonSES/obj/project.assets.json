@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "AWSSDK/2.3.55.2": {
+        "type": "package",
+        "compile": {
+          "lib/net45/AWSSDK.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AWSSDK/2.3.55.2": {
+      "sha512": "zy/6psTOx9c8LaZqL1tUtiGKMpd35b16TNRctz/N6Qc6hqFeOjyZ5WVhn89szJkkZtotcMFyfq58Y2RfyRxxUg==",
+      "type": "package",
+      "path": "awssdk/2.3.55.2",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "awssdk.2.3.55.2.nupkg.sha512",
+        "awssdk.nuspec",
+        "lib/net35/AWSSDK.dll",
+        "lib/net35/AWSSDK.pdb",
+        "lib/net45/AWSSDK.dll",
+        "lib/net45/AWSSDK.pdb",
+        "lib/portable-wpa+netcore45/AWSSDK.dll",
+        "lib/windows8/AWSSDK.dll",
+        "lib/windowsphone8/AWSSDK.dll",
+        "tools/account-management.ps1",
+        "tools/net35/install.ps1",
+        "tools/net45/install.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "AWSSDK >= 2.3.55.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DTI Digital\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DTI Digital\\OneDrive - dti digital crafters\\Área de Trabalho\\GitPessoal\\DTI-DIGITAL-CODES\\Implementation-Examples (AWS)\\Amazon Simple Email Service - SES\\AmazonSES\\AmazonSES\\AmazonSES.csproj",
+      "projectName": "AmazonSES",
+      "projectPath": "C:\\Users\\DTI Digital\\OneDrive - dti digital crafters\\Área de Trabalho\\GitPessoal\\DTI-DIGITAL-CODES\\Implementation-Examples (AWS)\\Amazon Simple Email Service - SES\\AmazonSES\\AmazonSES\\AmazonSES.csproj",
+      "packagesPath": "C:\\Users\\DTI Digital\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DTI Digital\\OneDrive - dti digital crafters\\Área de Trabalho\\GitPessoal\\DTI-DIGITAL-CODES\\Implementation-Examples (AWS)\\Amazon Simple Email Service - SES\\AmazonSES\\AmazonSES\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DTI Digital\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "AWSSDK": {
+            "target": "Package",
+            "version": "[2.3.55.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'AWSSDK 2.3.55.2' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "AWSSDK",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
