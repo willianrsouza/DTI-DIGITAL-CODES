@@ -29,7 +29,7 @@
 
 ## Sobre o repositorio
 
-* Esse repositório tem como finalidade demonstrar como aplicar o serviço <i> SES  (Amazon Simple Email Service) </i> no seu projeto, utilizando as melhores práticas.
+* Esse repositório tem como finalidade demonstrar como aplicar o serviço <i> SES  (Amazon Simple Email Service) </i> no seu projeto, utilizando as melhores práticas de desenvolvimento.
 
 ### Principais Tecnologias
 
