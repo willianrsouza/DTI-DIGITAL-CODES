@@ -4,7 +4,7 @@
   <img src="assets/logo-dti.png" alt="Logo" width="auto" height="200">
   <h1 align="center">Amazon Simple Email Service</h1>
   <p align="center">
-    Breve descrição explicando de forma direta e sucinta o propósito do repositorio
+    Como implementar o serviço de envio e recebimento de e-mails em grande escala na nuvem, utilizando serviços da Amazon.
   </p>
 </p>
 
@@ -29,25 +29,18 @@
   <summary>Índice</summary>
   <ol>
     <li>
-      <a href="#sobre-a-aplicação">Sobre a aplicação</a>
+      <a href="#sobre-a-aplicação">Sobre o repositório</a>
       <ul>
         <li><a href="#principais-tecnologias">Principais tecnologias</a></li>
       </ul>
     </li>
     <li>
-      <a href="#instalação">Instalação</a>
       <ul>
         <li><a href="#pré-requisitos">Pré Requisitos</a></li>
-        <li><a href="#como-instalar">Como instalar</a></li>
-        <li><a href="#como-desinstalar">Como desinstalar</a></li>
       </ul>
-    </li>
-    <li><a href="#como-utilizar">Como utilizar</a></li>
-    <li>
       <a href="#build-local">Build Local</a>
       <ul>
         <li><a href="#pré-requisitos-1">Pré Requisitos</a></li>
-        <li><a href="#como-executar">Como executar</a></li>
       </ul>
     </li>
     <li><a href="#como-contribuir">Como contribuir</a></li>
