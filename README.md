@@ -39,9 +39,6 @@
         <li><a href="#pré-requisitos">Pré Requisitos</a></li>
       </ul>
       <a href="#build-local">Build Local</a>
-      <ul>
-        <li><a href="#pré-requisitos-1">Pré Requisitos</a></li>
-      </ul>
     </li>
     <li><a href="#como-contribuir">Como contribuir</a></li>
     <li><a href="#licença">Licença</a></li>
@@ -61,12 +58,7 @@ Tecnologias e frameworks utilizados no projeto:
 
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Amazon Service](https://aws.amazon.com/pt/ses/)
+- 
+## Pré Requisitos
+- [AWSSDK.SimpleEmail]
 
-
-## Como contribuir
-
-Forneça instruções para que as pessoas saibam como contribuir para o projeto. Você pode colocar um link para um guia de contribuição, por exemplo.
-
-## Licença
-
-Informe a licença de códido utilizada pelo projeto.
