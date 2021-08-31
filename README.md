@@ -38,7 +38,6 @@
       <ul>
         <li><a href="#pré-requisitos">Pré Requisitos</a></li>
       </ul>
-      <a href="#build-local">Build Local</a>
     </li>
   </ol>
 </details>
