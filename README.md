@@ -40,14 +40,12 @@
       </ul>
       <a href="#build-local">Build Local</a>
     </li>
-    <li><a href="#como-contribuir">Como contribuir</a></li>
-    <li><a href="#licença">Licença</a></li>
   </ol>
 </details>
 
 ## Sobre o repositorio
 
-Esse repositório tem o proposito de demonstrar como implementar o serviço Amazon Simple Email Service.
+Esse repositório tem o proposito de demonstrar como implementar o serviço Amazon Simple Email Service
 <p align="center">
   <img src="assets/example.gif" alt="app-demo" width="auto" height="300">
 </p>
@@ -59,6 +57,5 @@ Tecnologias e frameworks utilizados no projeto:
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Amazon Service](https://aws.amazon.com/pt/ses/)
 - 
-## Pré Requisitos
+### Pré Requisitos
 - [AWSSDK.SimpleEmail]
-
