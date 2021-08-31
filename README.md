@@ -4,7 +4,7 @@
   <img src="assets/logo-dti.png" alt="Logo" width="auto" height="200">
   <h1 align="center">Nome da Aplicação</h1>
   <p align="center">
-    Breve descrição explicando de forma direta e sucinta o propósito da aplicação
+    Breve descrição explicando de forma direta e sucinta o propósito do repositorio
   </p>
 </p>
 
