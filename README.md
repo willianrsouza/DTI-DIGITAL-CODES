@@ -29,7 +29,7 @@
 
 ## Sobre o repositorio
 
-* Esse repositório tem o proposito de demonstrar como implementar o serviço Amazon Simple Email Service. O Amazon Simple Email Service (SES) é um serviço em nuvem de e-mail eficaz, flexível e dimensionável.
+* Esse repositório tem o proposito de demonstrar como implementar o serviço <i>Amazon Simple Email Service</i>. O <i>Amazon Simple Email Service (SES) </i> é um serviço em nuvem de e-mail eficaz, flexível e dimensionável.
 
 ### Principais Tecnologias
 
