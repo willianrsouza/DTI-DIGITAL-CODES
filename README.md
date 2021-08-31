@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="assets/logo-dti.png" alt="Logo" width="auto" height="200">
-  <h1 align="center">Nome da Aplicação</h1>
+  <h1 align="center">Amazon Simple Email Service</h1>
   <p align="center">
     Breve descrição explicando de forma direta e sucinta o propósito do repositorio
   </p>
@@ -55,86 +55,20 @@
   </ol>
 </details>
 
-## Sobre a aplicação
+## Sobre o repositorio
 
-Descrição sobre o propósito da aplicação e sobre os problemas que ela se propõe a resolver. Você também pode listar brevemente as funcionalidades principais para depois detalhá-las na seção [Como Utilizar](como-utilizar). Se necessário, adicione imagens ou GIFs para ilustrar melhor.
-
+Esse repositório tem o proposito de demonstrar como implementar o serviço Amazon Simple Email Service.
 <p align="center">
   <img src="assets/example.gif" alt="app-demo" width="auto" height="300">
 </p>
 
 ### Principais Tecnologias
 
-Lista das principais tecnologias e frameworks utilizados no projeto. Ideal ter um link para o site da documentação ou para o repositório correspondente. Por exemplo:
+Tecnologias e frameworks utilizados no projeto:
 
-- [ReactJS](https://reactjs.org/)
-- [Material-UI](https://material-ui.com/)
-- [Jest](https://jestjs.io/)
+- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [Amazon Service](https://aws.amazon.com/pt/ses/)
 
-## Instalação
-
-Informações sobre como instalar a aplicação do ponto de vista de usuário da mesma. Instruções sobre como executá-la localmente e contribuir para o projeto devem ser citadas nas seções [Build Local](#build-local) e [Como contribuir](como-contribuir).
-
-### Pré-Requisitos
-
-Liste, caso existam, as tecnologias que deverão ser instaladas para que o usuário consiga utilizar a aplicação. Mostre de forma clara e direta como instalar cada um dos pré requisitos.
-
-Exemplo:
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Como instalar
-
-Passo a passo de como instalar a aplicação.
-
-- Utilizando o npm
-
-  ```sh
-  npm i --save nome-da-aplicação
-  ```
-
-### Como desinstalar
-
-Instruções para remover a aplicação.
-
-## Como utilizar
-
-Informações mais detalhadas sobre como e quando utilizar as funcionalidades da aplicação, como fazer configurações personalizadas e demais observações importantes relacionadas a esse contexto.
-
-## Build local
-
-Instruções sobre como executar a aplicação em um ambiente de desenvolvimento local.
-
-### Pré-Requisitos
-
-Liste, caso existam, as tecnologias que deverão ser instaladas para que o usuário consiga executar a aplicação em seu ambiente de desenvolvimento local. Mostre de forma clara e direta como instalar cada um dos pré requisitos.
-
-### Como executar
-
-Mostre o passo a passo necessário para executar a aplicação.
-
-Exemplo:
-
-1. Gere uma chave de acesso gratuita no site [https://example.com](https://example.com)
-2. Clone o repositório
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Installe as dependências
-   ```sh
-   npm install
-   ```
-4. Insira sua chave de acesso no arquivo `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
-5. Inicialize a aplicação
-   ```sh
-   npm start
-   ```
 
 ## Como contribuir
 
