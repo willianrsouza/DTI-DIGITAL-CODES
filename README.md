@@ -38,4 +38,4 @@ Tecnologias e frameworks utilizados no projeto:
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Amazon Service](https://aws.amazon.com/pt/ses/)
 ### Pré Requisitos
-- AWSSDK.SimpleEmail
+- É necessaria a instalação do pacote: (AWSSDK.SimpleEmail)
